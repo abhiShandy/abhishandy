@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 👯 I’m looking to work on Bitcoin and Lightning projects with bounties
-- 👷 I'm currently working on implementing BIP47 in BlueWallet
+- 👷 I'm currently working on implementing BIP47 in BlueWallet [PR](https://github.com/BlueWallet/BlueWallet/pull/5225)
 - 📫 How to reach me: abhishandy[at]protonmail[dot]com
 - Twitter: [@abhishandy](https://twitter.com/abhiShandy)
 - Experienced with Typescript, NodeJS, React, React-Native, AWS Services
