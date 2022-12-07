@@ -8,6 +8,6 @@
 - Fast learner, problem solver, erratic
 - My work account [@abhishandilya](https://github.com/abhishandilya) is more active
 
-### Bounties
+### Bounties I have worked for
 - Galoy [PR](https://github.com/GaloyMoney/galoy-pay/pull/359)
 - MyNode guides and features [link](https://github.com/mynodebtc/mynode/blob/master/doc/bounties.md)
