@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 👯 I’m looking to work on Bitcoin and Lightning projects with bounties
 - 👷 I'm currently working on a watch-only Bitcoin wallet for multi-sig users
 - 📫 How to reach me: abhishek.sandy[at]gmail[dot]com
 - Twitter: [@abhishandy](https://twitter.com/abhiShandy)
