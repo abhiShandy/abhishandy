@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👷 I'm currently working on a watch-only Bitcoin wallet for multi-sig users
+- 👷 I'm currently contributing to Hacktoberfest
 - 📫 How to reach me: abhishek.sandy[at]gmail[dot]com
 - Twitter: [@abhishandy](https://twitter.com/abhiShandy)
 - Experienced with Typescript, NodeJS, React, React-Native, AWS Services
