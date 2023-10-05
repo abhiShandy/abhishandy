@@ -8,9 +8,10 @@
 - My work account [@abhishandilya](https://github.com/abhishandilya) is more active
 
 ### Past Contributions
-- Galoy https://github.com/GaloyMoney/galoy-pay/pull/359
-- MyNode guides and features [link](https://github.com/mynodebtc/mynode/blob/master/doc/bounties.md)
-- [@BlueWallet](https://github.com/BlueWallet/BlueWallet)
+- [Galoy](https://github.com/GaloyMoney/galoy-pay/pull/359)
+- [MyNode](https://github.com/mynodebtc/mynode/pulls?q=is%3Apr+author%3AabhiShandy+is%3Aclosed) 
+- [BlueWallet](https://github.com/BlueWallet/BlueWallet)
+- [Grafana](https://github.com/grafana/grafana/pulls/abhiShandy)
 
 
 [![abhiShandy's GitHub | Stats](https://stats.quine.sh/abhiShandy/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=abhiShandy)
