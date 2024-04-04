@@ -18,3 +18,7 @@ I use this Github account for contributing to open source projects.
 - BlueWallet
 - Alby
 - Grafana
+- WiiQare
+
+
+Currently, I am fascinated by TinyGrad, StackerNews and MicroMouse.
