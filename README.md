@@ -12,6 +12,7 @@ I use this Github account for contributing to open source projects.
 
 ## Past contributions
 
+- LAMMPS
 - MyNode
 - Galoy
 - BlueWallet
