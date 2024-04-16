@@ -1,14 +1,12 @@
 # About me
 
-I am software team lead at a EV charging company. Checkout my work profile: [abhishandilya](https://github.com/abhiShandilya)
+I am lead software engineer at a EV charging company. Checkout my work profile: [abhishandilya](https://github.com/abhiShandilya)
 
-Currently, I'm fluent in Typescript, AWS CDK and MongoDB.
-
-I have used React, HTML, CSS, Python, C++ in the past.
+Currently, I'm fluent in Typescript, AWS CDK and MongoDB. I have used React, HTML, CSS, Python, C++ in the past.
 
 Although, I am working as a web dev right now, I have spent several years in grad school doing scientific computing for materials engineering. Checkout my [Google Scholar](https://scholar.google.com/citations?user=S_F5jlQAAAAJ&hl=en).
 
-I use this Github account for contributing to open source projects.
+I use this Github account for contributing to open source projects, and personal projects.
 
 ## Past contributions
 
@@ -19,8 +17,4 @@ I use this Github account for contributing to open source projects.
 - Alby
 - Grafana
 - WiiQare
-
-
-Currently, I am fascinated by TinyGrad, StackerNews and MicroMouse.
-
-Stacker News: abhishandy@stacker.news
+- Stacker News
